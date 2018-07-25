@@ -115,9 +115,10 @@ a:hover {
   width: 90px;
   left: 0;
   top: 30px;
-  bottom: 0
+  bottom: 0;
   background-color: #CFC7D2;
 }
+
 #page-content {
   margin-left: 300px;
 }
