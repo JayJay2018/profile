@@ -112,7 +112,7 @@ a:hover {
 
 #sidebar {
   position: fixed;
-  width: 300px;
+  width: 90px;
   left: 0;
   top: 0;
   bottom: 0;
@@ -121,6 +121,9 @@ a:hover {
   margin-left: 300px;
 }
 
+#sidebar {
+  background-color: #CFC7D2;
+}
 /*responsive design*/
 
 @media (max-width: 960px) {
